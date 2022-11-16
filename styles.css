@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Nabla', cursive;
+  font-size: 5rem;
+  text-align: center;
+}
+
+p {
+  font-family: 'Irish Grover', cursive;
+}
+
+.container {
+  max-width: 80%;
+  margin: auto;
+}
